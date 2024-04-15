@@ -1,0 +1,12 @@
+import { Input } from "./Input";
+import { Img } from "./Img";
+import { Button } from "./Button";
+import { Text } from "./Text";
+import { Heading } from "./Heading";
+import { SelectBox } from "./SelectBox";
+import { GoogleMap } from "./GoogleMap";
+import { ReactTable } from "./ReactTable";
+import { RatingBar } from "./RatingBar";
+import { CheckBox } from "./CheckBox";
+import { Slider } from "./Slider";
+export { Input, Img, Button, Text, Heading, SelectBox, GoogleMap, ReactTable, RatingBar, CheckBox, Slider };
